@@ -181,7 +181,7 @@
             ]
         }
     ],
-    "total": 10,
-    "skip": 0,
-    "limit": 5
+    "profile": {
+    "name": "typicode"
+  }
 }
