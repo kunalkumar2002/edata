@@ -1,16 +1,9 @@
 {
   "posts": [
-     {
-          "id": 1,
-          "title": "iPhone 9",
-          "description": "An apple mobile which is nothing like apple",
-          "price": 549,
-          "rating": 4.69,
-          "stock": 94,
-          "brand": "Apple",
-          "category": "smartphones",
-          "images": "https://i.dummyjson.com/data/products/1/1.jpg",      
-      },
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
